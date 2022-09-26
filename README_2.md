@@ -19,15 +19,40 @@ personal lattepanda used
   <p> 1. Create a New Virtual Machine 클릭</p>
   <img src="https://user-images.githubusercontent.com/92789013/192198998-67953494-b618-4ef7-a37c-26cdf4c3bcaa.png"><br>
   <br>
+  <br>
+  <br>
   
   <p> 2. Installer disc image file (iso) -> Browse 클릭으로 로컬 디스크의 ISO 파일 열기</p>
   <img src="https://user-images.githubusercontent.com/92789013/192199009-1c92afb1-70a0-45ac-a09b-15475f83f5fb.png"><br>
   <img src="https://user-images.githubusercontent.com/92789013/192199030-4c491659-37a6-4755-bba6-444400a88ebb.png">
   <br>
+  <br>
+  <br>
   
   <p> 3. 아까 설치해둔 macOS unlocker로 해제된 Apple Mac OS X 체크 -> Mojave 버전인 macOS 10.14 선택 </p>
   <img src="https://user-images.githubusercontent.com/92789013/192199033-e3ea7563-a5a6-4a0f-bd1a-b7dc698f27a1.png">
   <br>
+  <br>
+  <br>
   
+  <p> 4. Store virtual disk as a single file로 설정</p>
+  <p> 혹시 PC 하드 용량이 부족하다면 Maximum disk size 르 20GB 정도로 수정</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192199035-d8b1fac2-e23c-4559-8050-0e6154dbc8f3.png"><br>
+  <br>
+  <br>
+  <br>
   
+  <p> 5. Customize Hardware... 클릭</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192199039-56d2554e-4c6a-4fa5-bebd-ff961d7d9336.png"><br>
+  <br>
+  <br>
+  <br>
+  
+  <p> 6. 가상머시 할당 메모리르 4~8GB, processor cores수를 4로 수정</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192199041-e6fdeca8-e230-4397-ba65-d0917e55943b.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192199044-59e30f64-4e94-46ac-8894-7a9c58274635.png">
+  <br>
+  <br>
+  <br>
+   
 </div>
