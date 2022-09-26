@@ -116,9 +116,37 @@ personal lattepanda used
   <br>
   <br>
   
-  <p> 4. 설치 진행</p>
+  <p> 4. 설치 진행 </p>
   <img src="https://user-images.githubusercontent.com/92789013/192195805-2b8d5f04-ebb5-47c8-9450-b7b7dc9d77ac.png">
   <br>
   <br>
   <br>
+  
+  <p> 5. 설치 디스크 선택 (15~30분 소요)</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195807-9e3a30c1-4b48-4fe5-a942-e3418c424a15.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192195809-990f7b7f-dc7e-4874-b131-b353c3ac9900.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 6. 국가 선택 (대한민국) </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195812-6e846ed2-8aab-452a-917f-14ac28cb4c42.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 7. 인터네 설정 DHCP 서버가 자동으로 검색되지 않으며 그냐 Pass</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195814-d1555e49-d2cd-40bc-bb49-6ee83a3a172a.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192195816-f5908011-38c4-48ed-938f-0a0fd4d28fcc.png">
+  <br>
+  <br>
+  <br>
+      
+  <p> 8. 정보 전송을 하지 않음</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195820-a3ead9e8-ece8-4395-a654-b2270896cd01.png">
+  <br>
+  <br>
+  <br>
+  
+  <b> 이 뒤로느 계정 생성 이외에 모두 다음을 누른다.</b>
   
