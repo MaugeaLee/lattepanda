@@ -35,7 +35,7 @@ personal lattepanda used
 ## 1.1 Hackintosh (해킨토시)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/92789013/192195805-2b8d5f04-ebb5-47c8-9450-b7b7dc9d77ac.png" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/92789013/192195805-2b8d5f04-ebb5-47c8-9450-b7b7dc9d77ac.png" width="50%" height="50%"><br>
   부팅 화면을 찍을 수 없어 VM 부티 화면으로 대체합니다.<br>
   이미지에서는 Catalina 버전이지만 Mojave 버전으로 설치해야한다는 사실을 잊지 마세요</br>
 </div>
