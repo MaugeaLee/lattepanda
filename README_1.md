@@ -10,6 +10,7 @@ personal lattepanda used
 - 유선 마우스
 
 ## 0.2 소프트웨어
+버전 변경과 업로더의 수정으로 다운로드 주소가 변경되 수 있습니다.
 - <a href="https://customerconnect.vmware.com/en/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0">VMware (가상 윈도우 머신)</a>
 - <a href="https://github.com/paolo-projects/unlocker/releases/download/3.0.3/unlocker.zip">VMware MacOS Unlocker tools </a>
 - <a href="https://drive.google.com/file/d/1pufF4yb71eH_56bv6xaLy71L9Ut0qvmk/view">VMware MacOS 10.14 Mojave IOS</a>
