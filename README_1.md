@@ -10,7 +10,7 @@ personal lattepanda used
 - 유선 마우스
 
 ## 0.2 소프트웨어
-- VMware (가상 윈도우 머신)
+- <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01RSWowcHVrUjN1SnVJbHhNNElZQTB1Vl9LZ3xBQ3Jtc0ttT0xRX0FLODVUbzBZendHX0hxWE96dkJNd2xwaVZOR3hFc3BsdmdxVEFPcngtYWd0RzNQTWRaTWQzdE5OVDhOdk5LaS1pT3l5MjA3WmdCd2VhdlppQUxXQlNUdDJzeVpTMGRzZWYwUTFrNjFPU0dzRQ&q=https%3A%2F%2Fgithub.com%2Fnovaspirit%2Fmacpanda%2Freleases%2Fdownload%2Fmaster%2Flattepanda.clover.zip&v=nrJpwPxoZZ8">VMware (가상 윈도우 머신)</a>
 - <a href="https://drive.google.com/file/d/1pufF4yb71eH_56bv6xaLy71L9Ut0qvmk/view">VMware MacOS 10.14 Mojave IOS</a>
 - Clover Bootloader
 
