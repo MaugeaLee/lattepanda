@@ -54,7 +54,7 @@ personal lattepanda used
   <br>
   <br>
   
-  <p> 7. 가상머시 할당 메모리르 4~8GB, processor cores수를 4로 수정</p>
+  <p> 7. 가상머신 할당 메모리를 4~8GB, processor cores수를 4로 수정</p>
   <img src="https://user-images.githubusercontent.com/92789013/192199041-e6fdeca8-e230-4397-ba65-d0917e55943b.png">
   <img src="https://user-images.githubusercontent.com/92789013/192199044-59e30f64-4e94-46ac-8894-7a9c58274635.png">
   <br>
