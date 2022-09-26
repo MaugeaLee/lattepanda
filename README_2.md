@@ -35,24 +35,48 @@ personal lattepanda used
   <br>
   <br>
   
-  <p> 4. Store virtual disk as a single file로 설정</p>
+  <p> 4. 가상머신 이름과 머신이 설치될 위치 설정 (Default 면 내 문서(Documents)->Virtual Machines) </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192199034-4fa8fba4-34bc-4602-8856-ce278fa46f01.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 5. Store virtual disk as a single file로 설정</p>
   <p> 혹시 PC 하드 용량이 부족하다면 Maximum disk size 르 20GB 정도로 수정</p>
   <img src="https://user-images.githubusercontent.com/92789013/192199035-d8b1fac2-e23c-4559-8050-0e6154dbc8f3.png"><br>
   <br>
   <br>
   <br>
   
-  <p> 5. Customize Hardware... 클릭</p>
+  <p> 6. Customize Hardware... 클릭</p>
   <img src="https://user-images.githubusercontent.com/92789013/192199039-56d2554e-4c6a-4fa5-bebd-ff961d7d9336.png"><br>
   <br>
   <br>
   <br>
   
-  <p> 6. 가상머시 할당 메모리르 4~8GB, processor cores수를 4로 수정</p>
+  <p> 7. 가상머시 할당 메모리르 4~8GB, processor cores수를 4로 수정</p>
   <img src="https://user-images.githubusercontent.com/92789013/192199041-e6fdeca8-e230-4397-ba65-d0917e55943b.png">
   <img src="https://user-images.githubusercontent.com/92789013/192199044-59e30f64-4e94-46ac-8894-7a9c58274635.png">
   <br>
   <br>
   <br>
    
+  <p> 8. '7단계'에서 설정한 위치로 이동하여 .vmx 파일을 메모장으로 open</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195784-228f24b0-531e-492b-894e-fab36cb52fed.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 9. open한 .vmx 파일의 최하단부에 smc.version = "0" 입력</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195786-a75d59e0-7f4f-4b66-8f6a-1c9d6a7fb96d.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 10. VMware에서 작성한 가사 머신 실행</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195790-29e977ec-81bc-4dfa-b3aa-9bc447b068e7.png">
+  <br>
+  <br>
+  <br>
+  
 </div>
