@@ -82,6 +82,10 @@ personal lattepanda used
 </div>
 
 ## 2.3 VMware MacOS Mojave Install
+
+- MacOS Catalina 버전으로 스크린샷이 찍혔지만 <b>반드시</b> macOS Mojave 버전으로 진행해야 한다.
+- Catalina 버전은 진행 결과 해킨토시에 실패 했음을 알림
+
 <div align="center">
   <p> 1. 진행 언어 설정 (한국어) </p>
   <img src="https://user-images.githubusercontent.com/92789013/192195793-54f8619d-c5fb-4565-8449-a51f0458d0c5.png">
