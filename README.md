@@ -57,4 +57,4 @@ personal lattepanda used
 <br>
 
 - Apple 사의 전용 메인보드와 부트로더를 사용할 수 없기 때문에 Custom Bootloader를 사용하게 된다.
-- GUID 파티션맵의 APFS으로 포맷된 저장장치를 EFL과 USB-BOOT 파티션으로 나누어 Lattepanda 보드으 메모리가 아닌 플래시 USB 자체를 부트로더 역할을 수행가능하도록 설정하는 프로그램이다.
+- GUID 파티션맵의 APFS으로 포맷된 저장장치를 EFI와 USB-BOOT 파티션으로 나누어 Lattepanda 보드으 메모리가 아닌 플래시 USB 자체를 부트로더 역할을 수행가능하도록 설정하는 프로그램이다.
