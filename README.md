@@ -48,5 +48,13 @@ personal lattepanda used
 - macOS의 install.app 파일을 다운받기 위해선 mac 환경이 필요하며 이를 위해 VMware가상 머신을 통해 파일을 다운받는다.
 
 ## 1.2 Clover Bootloader
+
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92789013/192196881-4c89c51b-0ff0-4d54-96a4-3825c9b3c0af.png"><br>
+  Clover Bootloader 실행 화면
+</div>
+<br>
+
 - Apple 사의 전용 메인보드와 부트로더를 사용할 수 없기 때문에 Custom Bootloader를 사용하게 된다.
 - GUID 파티션맵의 APFS으로 포맷된 저장장치를 EFL과 USB-BOOT 파티션으로 나누어 Lattepanda 보드으 메모리가 아닌 플래시 USB 자체를 부트로더 역할을 수행가능하도록 설정하는 프로그램이다.
