@@ -18,7 +18,7 @@ personal lattepanda used
 - 라떼 판다의 사양은 17년도 intel Macbook 과 사양이 매우 흡사하여 하드웨어의 별다른 부담 없이 mac os를 인스톨하여 사용할 수 있다. <br>
 <div align="center">
 
-|성능|Lattepanda alpha|Macbbok(17")|
+|성능|Lattepanda alpha|Macbook(17")|
 |---|:---:|:---:|
 |CPU| i7 core M3-7Y30 | i7 core M3-7Y32 |
 |GPU| X | intel HD Graphics 615 900MHz GPU |
