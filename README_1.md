@@ -11,7 +11,7 @@ personal lattepanda used
 
 ## 0.2 소프트웨어
 - VMware (가상 윈도우 머신)
-- VMware MacOS 10.14 Mojave IOS
+- <a href="https://drive.google.com/file/d/1pufF4yb71eH_56bv6xaLy71L9Ut0qvmk/view">VMware MacOS 10.14 Mojave IOS</a>
 - Clover Bootloader
 
 # 1. Lattepanda MacOS Mojave Install
