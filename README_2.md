@@ -12,7 +12,7 @@ personal lattepanda used
   <p><b> 주의!! </b> 현재 프로세스에 VMware가 실행되고 있다며 작업관리자를 통해 VMware 관련 프로세스를 모두 종료하거나 PC를 재부팅하고 진행해야 한다</p>
 </div>
 
-## 2.2 VMware MacOS Mojave install
+## 2.2 Virtual Machine Start
 - 가상 머신 VMware를 설치하여 macOS install USB를 만들기 위한 가상 Mojave 환경을 구축한다.
 
 <div align="center">
@@ -73,10 +73,50 @@ personal lattepanda used
   <br>
   <br>
   
-  <p> 10. VMware에서 작성한 가사 머신 실행</p>
+  <p> 10. VMware에서 작성한 가상 머신 실행</p>
   <img src="https://user-images.githubusercontent.com/92789013/192195790-29e977ec-81bc-4dfa-b3aa-9bc447b068e7.png">
   <br>
   <br>
   <br>
   
 </div>
+
+## 2.3 VMware MacOS Mojave Install
+<div align="center">
+  <p> 1. 진행 언어 설정 (한국어) </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195793-54f8619d-c5fb-4565-8449-a51f0458d0c5.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 2. 디스크 포맷 진행 </p>
+  <p> VMware Virtual SATA Hard Drive Media를 포맷</p>
+  <p> 이름은 반드시 영문으로 작성한다</p>
+  <p> 포맷은 APFS, 설계는 GUID 파티션 맵으로 설정한다</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192206929-603d6800-516b-435e-aa58-fe61fef46e6e.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192206937-09b3d360-a137-486c-8b94-d1deeb2bb995.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192206939-05a3c00a-95e2-4f0e-b0aa-6fede55a7f5b.png">
+  <br>
+  <br>
+  <br>
+  
+  
+  <p> 3. macOS 설치 시작</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192206941-726fadbd-1720-4ffc-83f5-aa80e6108469.png">
+  <br>
+  <p> 3.1 설치 파일이 손상되었다는 오류가 발생한다면 아래와 같이 조치한다.</p>
+- 1. PC의 인터넷을 차단한다 (랜뽑 / Wi-Fi Off)
+- 2. 유틸리티 -> 터미널
+- 3. date 0930093017
+- 4. macOS 설치 재시도
+- 5. 긴 시간 어떠한 응답도 없다면 다시 인터넷을 연결하고 오류가 다시 발생한다며 1부터 재시도
+  <br>
+  <br>
+  <br>
+  
+  <p> 4. 설치 진행</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192195805-2b8d5f04-ebb5-47c8-9450-b7b7dc9d77ac.png">
+  <br>
+  <br>
+  <br>
+  
