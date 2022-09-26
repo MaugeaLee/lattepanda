@@ -51,7 +51,7 @@ personal lattepanda used
 
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/92789013/192196881-4c89c51b-0ff0-4d54-96a4-3825c9b3c0af.png"><br>
+  <img src="https://user-images.githubusercontent.com/92789013/192196881-4c89c51b-0ff0-4d54-96a4-3825c9b3c0af.png" width="50%" height="50%"><br>
   Clover Bootloader 실행 화면
 </div>
 <br>
