@@ -105,11 +105,13 @@ personal lattepanda used
   <img src="https://user-images.githubusercontent.com/92789013/192206941-726fadbd-1720-4ffc-83f5-aa80e6108469.png">
   <br>
   <p> 3.1 설치 파일이 손상되었다는 오류가 발생한다면 아래와 같이 조치한다.</p>
+  
 - 1. PC의 인터넷을 차단한다 (랜뽑 / Wi-Fi Off)
 - 2. 유틸리티 -> 터미널
 - 3. date 0930093017
 - 4. macOS 설치 재시도
 - 5. 긴 시간 어떠한 응답도 없다면 다시 인터넷을 연결하고 오류가 다시 발생한다며 1부터 재시도
+  
   <br>
   <br>
   <br>
