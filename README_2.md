@@ -17,7 +17,7 @@ personal lattepanda used
 
 <div align="center">
   <p> 1. Create a New Virtual Machine 클릭</p>
-  <img src="https://user-images.githubusercontent.com/92789013/192198998-67953494-b618-4ef7-a37c-26cdf4c3bcaa.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192198998-67953494-b618-4ef7-a37c-26cdf4c3bcaa.png"><br>
   <br>
   
   <p> 2. Installer disc image file (iso) -> Browse 클릭으로 로컬 디스크의 ISO 파일 열기</p>
