@@ -16,6 +16,7 @@ personal lattepanda used
 
 # 1. Lattepanda MacOS Mojave Install
 - 라떼 판다의 사양은 17년도 intel Macbook 과 사양이 매우 흡사하여 하드웨어의 별다른 부담 없이 mac os를 인스톨하여 사용할 수 있다. <br>
+<div align="center">
 
 |성능|Lattepanda alpha|Macbbok(17")|
 |---|:---:|:---:|
@@ -24,6 +25,8 @@ personal lattepanda used
 |RAM| LPDDR3 RAM 8GB | 8/16GB LPDDR3 SDRAM |
 |저장장치| eMMC 5.0 64GB | 256/512 GB SSD |
 | offical OS| Windows 10 or Linux | macOS 10.13 (High Sierra / Mojave update)|
+  
+ </div>
 
 - 그 중에서 17년 intel Macbook과 가장 호환성이 좋은 Mojave 버전을 별다른 OS Config 없이 아주 쉽게 install 할 수 있다.
 - 하지만 offical OS 가 아니기 때문에 하드웨어의 기술적 손상이 생길 수 있다.
