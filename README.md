@@ -34,7 +34,11 @@ personal lattepanda used
 
 ## 1.1 Hackintosh (해킨토시)
 
-<img src="https://user-images.githubusercontent.com/92789013/192195805-2b8d5f04-ebb5-47c8-9450-b7b7dc9d77ac.png" width="50%" height="50%" align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/92789013/192195805-2b8d5f04-ebb5-47c8-9450-b7b7dc9d77ac.png" width="50%" height="50%">
+  부팅 화면을 찍을 수 없어 VM 부티 화면으로 대체합니다.<br>
+  이미지에서는 Catalina 버전이지만 Mojave 버전으로 설치해야한다는 사실을 잊지 마세요</br>
+</div>
 - macOS를 탑재한 Apple사 PC를 Macintosh(매킨토시)라고 통칭한다. 
 - 이때 타사 PC에 macOS를 install하여 Unoffical OS 구성을 빌드하는 경우 이를 Macintosh에 빗대어 Hackintosh 혹은 Custom Mac 이라고 부른다.
 - Hackintosh를 빌드하기 위해선 Windows install과 마찬가지로 부팅 USB가 필요하며 이때 macOS의 app 파일이 필요하다.
