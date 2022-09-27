@@ -96,6 +96,7 @@ personal lattepanda used
   <br>
   <br>
   
+  ## 3.4 부팅 USB에 Clover Bootloader 설치 
   
   
   
