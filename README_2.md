@@ -195,9 +195,52 @@ OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인�
    
   ## 3.2 USB 플래시 디스크 포맷 
 <div align="center">
+  <p> 1. PC에 USB 삽입 후 USB 인식으로 가상머신으로 설정 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327905-6436867f-fb21-46df-9b27-e8eb22eebd5c.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192327919-db7f1cb1-c54d-4bea-a083-95875d767e34.PNG">
+  <br>
+  <br>
+  <br>
   
+  <p> 2. 우측 상단의 돋보기 클릭 후, 디스크 유틸리티 오픈 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327928-3bd1b5f8-47f5-45fe-9ce4-7e79108bc05f.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 3. 디스크 유틸리티의 보기 탭 클릭 (스샷이 유실되어 다른 버전에서 진행한 스샷을 첨부) </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327935-4dc6ba15-dc99-4a63-9aaa-dd4a12c8e0de.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192327834-6d50e4bc-585f-4d4b-8c7a-5a973e53d6b9.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 4. 인식된 USB 외장 물리적 저장공간을 포맷</p>
+  <p> 포맷 : APFS / 설계 : GUID 파티션 맵 / 이름 : 영문 이름 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327837-6e5a0f15-288b-4eaa-b7e2-b22e21ac59b5.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192327842-a52db897-228d-4e0c-b0ec-9072e823af35.png">
+  <br>
+  <br>
+  <br>
   
 </div>
+  
+  ## 3.3 부팅 USB 제작
+  
+<div align="center">
+  <p> 1. 3.2.2와 같이 돋보기를 클릭하여 terminal 입력 후 터미널 오픈 </p>
+  <br>
+  <br>
+  <br>
+  
+  <p> 2. 터미널에 Install macOS mojave.app 을 사용한 부팅 디스크 제작 코드 작성 </p>
+  '''bash
+  sudo /Applications/Install\ macOS\ mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/disk
+  '''
+  <img src="https://user-images.githubusercontent.com/92789013/192327938-0abc1bf1-4bd4-4230-8708-0d6e1e232775.PNG">
+  <br>
+  <br>
+  <br>
   
   
   
