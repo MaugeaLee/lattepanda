@@ -176,3 +176,7 @@ OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인�
   <br>
   <br>
   
+  
+<div align="center">
+  VMware Install 끝
+  </div>
