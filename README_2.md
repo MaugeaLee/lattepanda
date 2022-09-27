@@ -154,11 +154,14 @@ OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인�
   <br>
   
   <b> 이 뒤로는 계정 생성 이외에 모두 다음을 누른다.</b>
-  
+  </div>
+
   # 3. 부팅 USB 만들기
   - USB 플래시 드라이브를 통해 부트로더를 설치한 macOS 부팅 드라이브를 작성한다.
 
   ## 3.1 Install macOS Mojave.app 다운 
+  
+<div align="center">
   <p> 1. 사파리 오픈 </p>
   <img src="https://user-images.githubusercontent.com/92789013/192327793-0640c057-f559-4d7e-9678-7bb8d71b9f64.PNG">
   <br>
@@ -188,8 +191,13 @@ OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인�
   <br>
   <br>
   <br>
-  
+ </div>
+   
   ## 3.2 USB 플래시 디스크 포맷 
+<div align="center">
+  
+  
+</div>
   
   
   
