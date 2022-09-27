@@ -144,3 +144,25 @@ personal lattepanda used
   <br>
   
   
+  <p> 7. 위의 단계를 준수하며 진행했다면 아래와 같이 USB드라이브가 EFI 파티션과 Install macOS Mojave 파티션으로 나뉘게 된다.</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192465352-6881fdf5-75d0-4462-a3c5-14b8346242e1.png">
+  <br>
+  <br>
+  <br>
+  
+  
+  <p> 8. 두 개의 파티션 중 EFI 파티션 안의 CLOVER 폴더 속 파일을 모두 삭제 한다 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192465376-c5cf5e58-a6f9-44b3-a668-cf79563a30cd.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192328077-bfec8f8a-0199-4a56-a080-bfe56732499c.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 9. 부트로더 설치에 사용한 lattepanda clover 폴더 속의 Clover 폴더 속 파일을 3.4.8로 인해 빈폴더가 된 Clover 폴더 안으로 복사 시킨다.</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192328083-1c3165c0-a6ee-4a6e-82ac-154bccc37822.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192328091-50aa0629-a86d-46e7-b16a-548bab8f9829.PNG">
+  <br>
+  <br>
+  <br>
+  
+  
