@@ -95,11 +95,52 @@ personal lattepanda used
   <br>
   <br>
   <br>
+</div>
   
   ## 3.4 부팅 USB에 Clover Bootloader 설치 
+<div align="center">
+  <p> 1. README_1.md 에서 다운받은 CloverBootloader 압축 해제 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327963-02f71d3f-7c2b-48f5-a5f1-49c70683c934.PNG">
+  <br>
+  (업로드 된 파일은 사진 보다 파일 하나가 더 많다)
+  <img src="https://user-images.githubusercontent.com/92789013/192445184-95a72412-e77c-4c6e-9dad-31c9fe9bceb4.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 2. Clover.pkg 파일 오픈 (더블 클릭하면 열리지 않을 수 있음) </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327968-488dff6e-3787-4646-aef1-3a06e89cdec9.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192327970-e630b25c-21e2-45e9-9f69-a2d34955a734.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 3. 클로버 부트로더 설치 진행</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327981-a10b88cf-8842-4d12-b544-33e1fdaedfb0.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192327998-6fdaf961-d6d8-4fe2-bf40-c2174102f665.png">
+  <br>
+  <br>
+  <br>
+  
+  <p> 4. 3.3.2를 통해 자동으로 Install macOS Mojave로 이름이 변경된 디스크를 선택 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192328011-e995e6b1-005d-4adc-96ef-be5ad382a4ba.PNG">
+  <br>
+  <br>
+  <br>
   
   
+  <p> 5. 사용자 설정 설치 체크 (위에서 두 체크박스만 체크하면 됨)</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192328007-1b46598b-9e9e-4691-832c-3b51b0127d93.png">
+  <img src="https://user-images.githubusercontent.com/92789013/192328023-ce3946ee-5ac4-4c26-bb99-c709982f2f4b.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192328032-d0096f1e-1b21-4041-bd89-9cfb2c266d25.PNG">
+  <br>
+  <br>
+  <br>
   
-    
+  <p> 6. 클로버 부트로더 설치 완료 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192328063-2b0e4cd4-fc1e-4f0f-b354-37281596984a.PNG">
+  <br>
+  <br>
+  <br>
   
   
