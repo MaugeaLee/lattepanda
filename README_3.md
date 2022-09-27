@@ -165,4 +165,16 @@ personal lattepanda used
   <br>
   <br>
   
+  <p> 10. 다음으로 Install macOS Mojave 파티션의 최상위 위치에 lattepanda clover 폴더 속 CloverConfigurator와 patch-edid.rb 파일을 복사 이동시킨다</p>
+  <p> (스크린샷에서는 USB 포맷 설정을 잘못하여 EFI 파티션과 Install mac OS Catalina {Mojave} 파티션이 하나의 파티션으로 합쳐져 있는 것을 볼 수 있다)</p>
+  <p> (이와 같은 하나의 파티션이라면 Clover Bootloader가 제대로 기동하지 못하여 부팅 USB로 인식되지 않는다)</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192328096-993d83e3-c462-48b4-9478-589fa32bed16.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192445184-95a72412-e77c-4c6e-9dad-31c9fe9bceb4.png">
+  <br>
+  <br>
+  <br>
+  
+  부팅 USB 만들기 끝
+  </div>
+  
   
