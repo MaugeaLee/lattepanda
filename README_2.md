@@ -234,17 +234,23 @@ OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인�
   <br>
   
   <p> 2. 터미널에 Install macOS mojave.app 을 사용한 부팅 디스크 제작 코드 작성 </p>
-  
   <pre>
     <code>
       sudo /Applications/Install\ macOS\ mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/disk
     </code>
   </pre>
-  
   <img src="https://user-images.githubusercontent.com/92789013/192327938-0abc1bf1-4bd4-4230-8708-0d6e1e232775.PNG">
+  <img src="https://user-images.githubusercontent.com/92789013/192327941-d9d275a0-db60-41be-9404-4a877a37f2c4.PNG">
   <br>
   <br>
   <br>
+  
+  <p> 3. 부팅 디스크 제작이 완료됨을 확인 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327957-0ff6fd6f-1829-4b8d-9de1-77e358d62213.PNG">
+  <br>
+  <br>
+  <br>
+  
   
   
   
