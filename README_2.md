@@ -115,9 +115,7 @@ personal lattepanda used
 - 3. date 0930093017
 - 4. macOS 설치 재시도
 - 5. 긴 시간 어떠한 응답도 없다면 다시 인터넷을 연결하고 오류가 다시 발생한다며 1부터 재시도
-  
-  mac의 OS Installer에서 비공식 OS설치를 차단을 위해 ISO를 손상된 파일로 인식한다<br>
-  이때 PC의 날짜를 해당 차단을 시행하지 않는 17년도 날짜로 변경하면 ISO를 손상되지 않은 파일로 인지한다.<br>
+OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인식하지만 해당 차단 알고리즘을 시행하지 않는 17년도 날짜로 변경하면 ISO를 손상되지 않은 파일로 인지한다.
   
   <br>
   <br>
@@ -142,7 +140,7 @@ personal lattepanda used
   <br>
   <br>
   
-  <p> 7. 인터네 설정 DHCP 서버가 자동으로 검색되지 않으며 그냐 Pass</p>
+  <p> 7. 인터네 설정 DHCP 서버가 자동으로 검색되지 않으면 그냥 Pass</p>
   <img src="https://user-images.githubusercontent.com/92789013/192195814-d1555e49-d2cd-40bc-bb49-6ee83a3a172a.png">
   <img src="https://user-images.githubusercontent.com/92789013/192195816-f5908011-38c4-48ed-938f-0a0fd4d28fcc.png">
   <br>
@@ -156,4 +154,45 @@ personal lattepanda used
   <br>
   
   <b> 이 뒤로는 계정 생성 이외에 모두 다음을 누른다.</b>
+  
+  # 3. 부팅 USB 만들기
+  - USB 플래시 드라이브를 통해 부트로더를 설치한 macOS 부팅 드라이브를 작성한다.
+
+  ## 3.1 Install macOS Mojave.app 다운 
+  <p> 1. 사파리 오픈 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327793-0640c057-f559-4d7e-9678-7bb8d71b9f64.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 2. Apple 정식 macOS Mojave 클릭 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327799-f977d4af-22eb-4964-a438-a1dee5de5d96.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 3. 페이지 하단의 macOS Mojave 링크 클릭 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327807-54c43011-f92d-42a1-9cfb-684428647a7b.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 4. 자동으로 연결된 AppStore 에서 Mojave 어플리케이션 다운</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327815-b7ce9cc9-5824-41e0-a119-1a9243caca32.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 5. Finder(파일 탐색기)의 Application(응용 프로그램) 폴더의 Install macOS Mojave.app 파일 다운 여부 확인</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192327831-d6f364a3-d465-4738-9cfd-5b3698697013.PNG">
+  <br>
+  <br>
+  <br>
+  
+  ## 3.2 USB 플래시 디스크 포맷 
+  
+  
+  
+    
+  
   
