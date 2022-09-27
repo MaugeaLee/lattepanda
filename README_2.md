@@ -156,3 +156,23 @@ OS Installer에서 해킨토시 차단을 위해 ISO를 손상된 파일로 인�
   <b> 이 뒤로는 계정 생성 이외에 모두 다음을 누른다.</b>
   </div>
 
+## 2.3 가상머신의 인터넷이 불가하다면
+<div align="center">
+  <p> 1. PC의 좌측 하단 윈도우 버튼을 누르고 '실행'을 입력</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192330320-1c225714-5698-411f-b719-69e80a52f5f4.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 2. VMware와 관련된 서비스 리스트를 찾는다</p>
+  <img src="https://user-images.githubusercontent.com/92789013/192330324-e3256cd0-02e3-4388-af51-889c0bb09c98.PNG">
+  <br>
+  <br>
+  <br>
+  
+  <p> 3. VMware의 서비스 리스트의 동작을 시작으로 바꾼다 </p>
+  <img src="https://user-images.githubusercontent.com/92789013/192330327-de1149cb-a5f2-413f-9fab-a3e06eb572c0.PNG">
+  <br>
+  <br>
+  <br>
+  
