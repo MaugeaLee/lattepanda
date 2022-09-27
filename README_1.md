@@ -16,7 +16,7 @@ personal lattepanda used
 - <a href="https://drive.google.com/file/d/1pufF4yb71eH_56bv6xaLy71L9Ut0qvmk/view">VMware MacOS 10.14 Mojave IOS</a>
 - <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa01RSWowcHVrUjN1SnVJbHhNNElZQTB1Vl9LZ3xBQ3Jtc0ttT0xRX0FLODVUbzBZendHX0hxWE96dkJNd2xwaVZOR3hFc3BsdmdxVEFPcngtYWd0RzNQTWRaTWQzdE5OVDhOdk5LaS1pT3l5MjA3WmdCd2VhdlppQUxXQlNUdDJzeVpTMGRzZWYwUTFrNjFPU0dzRQ&q=https%3A%2F%2Fgithub.com%2Fnovaspirit%2Fmacpanda%2Freleases%2Fdownload%2Fmaster%2Flattepanda.clover.zip&v=nrJpwPxoZZ8">Clover Bootloader</a>
 
-# 1. Lattepanda MacOS Mojave Install
+# 1. 기본 개념
 - 라떼 판다의 사양은 17년도 intel Macbook 과 사양이 매우 흡사하여 하드웨어의 별다른 부담 없이 mac os를 인스톨하여 사용할 수 있다. <br>
 <div align="center">
 
@@ -60,3 +60,7 @@ personal lattepanda used
 
 - Apple 사의 전용 메인보드와 부트로더를 사용할 수 없기 때문에 Custom Bootloader를 사용하게 된다.
 - GUID 파티션맵의 APFS으로 포맷된 저장장치를 EFI와 USB-BOOT 파티션으로 나누어 Lattepanda 보드의 메모리가 아닌 플래시 USB 자체를 부트로더 역할을 수행가능하도록 설정하는 프로그램이다.
+
+<div align="center">
+  기본 개념 끝
+  </div>
