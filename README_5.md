@@ -1,7 +1,7 @@
 # lattepanda
 personal lattepanda used
 
-<h2> 이하 내용은 어느 정도 macOS의 Finder 사용법 정도는 알고 있어야 수행하기 수월하다. 간단하게 
+<h2> 이하 내용은 어느 정도 macOS의 Finder 사용법 정도는 알고 있어야 수행하기 수월하다. 간단하게 LattePanda에 Install한 OS를 만져보기만 해도 충분할 것이다</h2>
 
 # 5. Booting Disk install
 - 현재 라떼판다의 부팅은 오롯이 USB 플래시 디스크에서 수행하고 있다.
