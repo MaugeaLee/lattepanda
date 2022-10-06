@@ -22,7 +22,8 @@ personal lattepanda used
     <br>
     3. 부팅
     <br>
-    <img src="https://user-images.githubusercontent.com/92789013/194212696-ee46ec76-b849-4f47-b7b2-71e19553a77b.jpg">
+    <img src="https://user-images.githubusercontent.com/92789013/194212696-ee46ec76-b849-4f47-b7b2-71e19553a77b.jpg"><br>
+  
     ( 전원을 연결하고 hdmi 포트를 통해 화면을 연결해도 아무런 반응이 없다. )<br>
     ( SBC 의 측면에 위치한 power 버튼을 약 1초간 눌러주면 파란불이 점등되며 부팅이 시작된다 )
     <br>
@@ -71,6 +72,52 @@ personal lattepanda used
 ## 4.2 클로버 부트로더가 설치되어 있는 USB 부팅하기
 - 이전 단계를 오류 없이 수행했다면 USB 플래시 드라이브는 현재 부팅 디스크로써의 역할을 수행할 수 있다.
 - 만약 이후 작업에 에러가 발생하거나 어려움이 생긴다면 이전 작업을 다시 시도해보는 것이 좋을 것이다.
-- (예상 문제 )
+- ( 예상 문제 )
+  - 클로버 부트로더를 설치했는데도 EFI 폴더가 생성되지 않음
+    - 해결 : 저장장치의 포맷을 GUID 파티션과 APFS로 설정하지 않아서
+
+
+<div align="center">
+  1. Lattepanda 보드에 부팅 USB + m.2 SSD (or USB 외장 HDD) + 키보드&마우스를 연결한다.
+  (USB 외장 하드를 사용하는 경우 USB 포트가 부족해서 상당히 불편하게 된다. 키보드 & 마우스를 교차하며 사용하던가 USB 확장 허브를 사용해야한다)
+  <img src="https://user-images.githubusercontent.com/92789013/194230956-5d2817bf-814d-45d4-8cde-fc1f15c93433.jpg">
+  <br>
+  <br>
+  <br>
+  
+  2. Lattepanda를 부팅하고 f5를 연타하여 부팅 선택 화면으로 이동한다.<br>
+  해당 화면에서 포맷할때 사용한 이름 (혹은 USB 제작회사 이름)으로된 USB 부팅 디스크를 선택한다
+  <img src="https://user-images.githubusercontent.com/92789013/194211738-07952597-649d-4c8b-9ac3-765341c4aa30.png">
+  <br>
+  <br>
+  <br>
+  
+  3. 클로버 부트로더를 통해 OS Select를 진행한다.<br>
+  Boot macOS Install from Install macOs Mojave 를 선택한다 (선택은 키보드로 진행한다)
+  <img src="https://user-images.githubusercontent.com/92789013/194211739-c273ac91-1df8-4fc4-9385-3dfed4bc531f.png">
+  <br>
+  <br>
+  <br>
+  
+  4. Installer 의 부팅을 기다린다 (5~10분 정도 소요된다. 혹여 지나치게 오랜시간이 소요된다면 무한사과라는 에러이니 부팅 USB 설치부터 다시 진행해야 한다)
+  <img src="https://user-images.githubusercontent.com/92789013/194211741-85d5f0a4-1c42-4fbe-b7f8-74a3b37305ca.png">
+  <br>
+  <br>
+  <br>
+  
+  5. 이전 VMware 가상머신을 설치했을 때는 참고하여 macOS를 설치할 SSD or HDD을 포맷한다
+  <img src="https://user-images.githubusercontent.com/92789013/194212653-69093097-c4b5-4473-9fe0-20da9e87a448.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212655-7ad71ea6-890a-472d-87fc-6a8032ec4e63.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212660-6faa4986-8ce1-42b4-8da8-67fc3ea1bcd1.jpg">
+  ( 필자는 한 HDD의 파티션을 macOS 용과 Linux 용으로 나눌 예정이기 때문에 파티션을 나누어 포맷했다. )
+  <br>
+  <br>
+  <br>
+  
+  6. 이전 VMware 가상머신을 설치했을 때를 참고하여 macOS 설치를 진행한다.
+  
+  <img src="https://user-images.githubusercontent.com/92789013/194212657-60d51e7b-b4d8-4b5e-822f-67d4e5770ae2.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212659-b36b6d9b-072f-4bae-971d-44ca28de7348.jpg">
+  
   
   
