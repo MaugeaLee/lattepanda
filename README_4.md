@@ -149,5 +149,7 @@ personal lattepanda used
   (정상적으로 부팅된다.)
   
   
+  <b>부팅 끝</b>
+  
   
   
