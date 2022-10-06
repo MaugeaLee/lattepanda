@@ -11,8 +11,8 @@ personal lattepanda used
   1. 터미널을 open 하여 현재 디스크 리스트를 확인하기
 
 
-'''
-  diskutil list
+'''bash
+diskutil list
 '''
 
   <img src="https://user-images.githubusercontent.com/92789013/194243393-fba98518-9be3-463c-9dff-bd6191edaf4b.png">
