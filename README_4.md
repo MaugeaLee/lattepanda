@@ -6,14 +6,13 @@ personal lattepanda used
 - Bios 설정을 위해 라떼판다 USB포트에 키보드를 연결할 수 있어야 한다.
 
 ## 4.1 Lattepanda Booting 
-- 라떼판다의 bios는 일반 PC의 메인보드와 마찬가지로 키보드로 조작한다.
-- (간단한 사용법)
-  - 가로 화살표 : 상단 탭 변경
-  - 세로 화살표 : 현재 탭의 메뉴 변경
-  - 엔터 : 선택
-  - esc : 현재 선택한 configuration에서 나가기
-  - f4 : 저장후 나가기 
-<br>
+
+  <div align="center">
+    1. 라떼판다 SBC (Single Board Computer) 보드와 함께 동봉된 12V 전력 서플라이를 통해 라떼판다에 전원을 공급한다.
+    <br>
+    2. 라떼판다는 USB-C type을 통해 편리하게 전원 공급이 가능하다.
+    <br>
+    3. 부팅
 
 
     <br>
