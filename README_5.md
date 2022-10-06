@@ -94,7 +94,21 @@ diskutil list
   <br>
   <br>
   
+  10.부팅중 del을 입력하여 Bios 창으로 이동한다
+  <br>
+  11.boot탭 - Boot Option Priorities - Boot Option #1 - UEFI OS 로 해준다.
+  (이후 원활한 부팅을 위해 남은 Boot Option #2, #3, #4 는 모두 Disabled 해준다.)
+  <img src="https://user-images.githubusercontent.com/92789013/194212684-82b72847-7aaa-4c44-9d38-3119b2ed7d65.jpg">
+  <br>
+  <br>
+  <br>
   
+ 
+  12.이후에는 USB 디스크를 제거한 후 별다른 입력 없이도 자동으로 Clover Bootloader로 자동 부팅된다.
+  <img src="https://user-images.githubusercontent.com/92789013/194212688-1f76d30a-bc33-46fd-af6f-301de59d0896.jpg">
+  <br>
+  <br>
+  <br>
   
   
 </div>
