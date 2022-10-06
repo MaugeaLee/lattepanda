@@ -15,11 +15,11 @@ personal lattepanda used
   - f4 : 저장후 나가기 
 
   <div align="center">
-    1. 라떼판다 SBC (Single Board Computer) 보드와 함께 동봉된 12V 전력 서플라이를 통해 라떼판다에 전원을 공급한다.
+    1.라떼판다 SBC (Single Board Computer) 보드와 함께 동봉된 12V 전력 서플라이를 통해 라떼판다에 전원을 공급한다.
     <br>
-    2. 라떼판다는 USB-C type을 통해 편리하게 전원 공급이 가능하다.
+    2.라떼판다는 USB-C type을 통해 편리하게 전원 공급이 가능하다.
     <br>
-    3. 부팅
+    3.부팅
 
 
     <br>
@@ -31,11 +31,11 @@ personal lattepanda used
     <br>
     <br>  
 
-    4. 별다른 조작이 없다면 기본적인 eMMC에 설치되어 있는 Windows 10이 실행된다.
+    4.별다른 조작이 없다면 기본적인 eMMC에 설치되어 있는 Windows 10이 실행된다.
     <br>
-    5. Windows 10 으로 부팅이 되었다면 전원을 OFF하거나 다시시작하기를 눌러 전원을 리셋한다.
+    5.Windows 10 으로 부팅이 되었다면 전원을 OFF하거나 다시시작하기를 눌러 전원을 리셋한다.
     <br>
-    6. 라떼판다 로고가 등장하기 전 DEL (delet) 키보드를 연타하여 라떼판타 SBC의 Bios에 진입한다.
+    6.라떼판다 로고가 등장하기 전 DEL (delet) 키보드를 연타하여 라떼판타 SBC의 Bios에 진입한다.
     <br>
     <img src="https://user-images.githubusercontent.com/92789013/194212688-1f76d30a-bc33-46fd-af6f-301de59d0896.jpg">
       <br>
@@ -43,26 +43,26 @@ personal lattepanda used
       <br>
 
      (앞으로의 작업은 board 버전에 따라 설정할 수 있다. 때문에 있는 안건만 수정해 주면 된다.)
-    7. Advanced - CPU Configuration - VT-d ==> (Disabled) { 없을 가능성이 높다 }
+    7.Advanced - CPU Configuration - VT-d ==> (Disabled) { 없을 가능성이 높다 }
       <img src="https://user-images.githubusercontent.com/92789013/194211727-d5094a4a-1ae6-4b8d-8ba4-518a56aa0a2d.png">
       <br>
       <br>
       <br>
       
-    8. Chipset - USB Configuration - XHCI Hand-off ==> (Enabled)
+    8.Chipset - USB Configuration - XHCI Hand-off ==> (Enabled)
       <img src="https://user-images.githubusercontent.com/92789013/194211730-1fd302b3-243a-4786-9a17-68ac2f601d2f.png">
       <img src="https://user-images.githubusercontent.com/92789013/194211737-11edfa8c-487c-4e96-83a0-25b18b026584.png">
       <br>
       <br>
       <br>
       
-    9. Chipset - Graphics Configuration - 그림과 같이 수정
+    9.Chipset - Graphics Configuration - 그림과 같이 수정
       <img src="https://user-images.githubusercontent.com/92789013/194211733-798fdf6c-f396-4abb-993d-147e51a72954.png">
       <br>
       <br>
       <br>
       
-    10. f4를 눌러 Bios 설정 내용 저장 후 나가기
+    10.f4를 눌러 Bios 설정 내용 저장 후 나가기
       <br>
       <br>
       <br>
@@ -79,34 +79,34 @@ personal lattepanda used
 
 
 <div align="center">
-  1. Lattepanda 보드에 부팅 USB + m.2 SSD (or USB 외장 HDD) + 키보드&마우스를 연결한다.
+  1.Lattepanda 보드에 부팅 USB + m.2 SSD (or USB 외장 HDD) + 키보드&마우스를 연결한다.
   (USB 외장 하드를 사용하는 경우 USB 포트가 부족해서 상당히 불편하게 된다. 키보드 & 마우스를 교차하며 사용하던가 USB 확장 허브를 사용해야한다)
   <img src="https://user-images.githubusercontent.com/92789013/194230956-5d2817bf-814d-45d4-8cde-fc1f15c93433.jpg">
   <br>
   <br>
   <br>
   
-  2. Lattepanda를 부팅하고 f5를 연타하여 부팅 선택 화면으로 이동한다.<br>
+  2.Lattepanda를 부팅하고 f5를 연타하여 부팅 선택 화면으로 이동한다.<br>
   해당 화면에서 포맷할때 사용한 이름 (혹은 USB 제작회사 이름)으로된 USB 부팅 디스크를 선택한다
   <img src="https://user-images.githubusercontent.com/92789013/194211738-07952597-649d-4c8b-9ac3-765341c4aa30.png">
   <br>
   <br>
   <br>
   
-  3. 클로버 부트로더를 통해 OS Select를 진행한다.<br>
+  3.클로버 부트로더를 통해 OS Select를 진행한다.<br>
   Boot macOS Install from Install macOs Mojave 를 선택한다 (선택은 키보드로 진행한다)
   <img src="https://user-images.githubusercontent.com/92789013/194211739-c273ac91-1df8-4fc4-9385-3dfed4bc531f.png">
   <br>
   <br>
   <br>
   
-  4. Installer 의 부팅을 기다린다 (5~10분 정도 소요된다. 혹여 지나치게 오랜시간이 소요된다면 무한사과라는 에러이니 부팅 USB 설치부터 다시 진행해야 한다)
+  4.Installer 의 부팅을 기다린다 (5~10분 정도 소요된다. 혹여 지나치게 오랜시간이 소요된다면 무한사과라는 에러이니 부팅 USB 설치부터 다시 진행해야 한다)
   <img src="https://user-images.githubusercontent.com/92789013/194211741-85d5f0a4-1c42-4fbe-b7f8-74a3b37305ca.png">
   <br>
   <br>
   <br>
   
-  5. 이전 VMware 가상머신을 설치했을 때는 참고하여 macOS를 설치할 SSD or HDD을 포맷한다
+  5.이전 VMware 가상머신을 설치했을 때는 참고하여 macOS를 설치할 SSD or HDD을 포맷한다
   <img src="https://user-images.githubusercontent.com/92789013/194212653-69093097-c4b5-4473-9fe0-20da9e87a448.jpg">
   <img src="https://user-images.githubusercontent.com/92789013/194212655-7ad71ea6-890a-472d-87fc-6a8032ec4e63.jpg">
   <img src="https://user-images.githubusercontent.com/92789013/194212660-6faa4986-8ce1-42b4-8da8-67fc3ea1bcd1.jpg">
@@ -115,7 +115,7 @@ personal lattepanda used
   <br>
   <br>
   
-  6. 이전 VMware 가상머신을 설치했을 때를 참고하여 macOS 설치를 진행한다.
+  6.이전 VMware 가상머신을 설치했을 때를 참고하여 macOS 설치를 진행한다.
   
   <img src="https://user-images.githubusercontent.com/92789013/194212657-60d51e7b-b4d8-4b5e-822f-67d4e5770ae2.jpg">
   <img src="https://user-images.githubusercontent.com/92789013/194212666-1d7a922e-df6e-46d9-81bc-509e9f9326ee.jpg">
