@@ -72,7 +72,7 @@ diskutil list
   <br>
   <br>
   
-  7.새로운 Finder를 생성하고 root 폴더로 이동
+  7.새로운 Finder를 생성하고 root 폴더로 이동<br>
   <img src="https://user-images.githubusercontent.com/92789013/194243468-0b6c8906-4b8d-442b-baae-dc05ac01c8d5.png">
   <br>
   <br>
