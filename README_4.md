@@ -120,6 +120,34 @@ personal lattepanda used
   <img src="https://user-images.githubusercontent.com/92789013/194212657-60d51e7b-b4d8-4b5e-822f-67d4e5770ae2.jpg">
   <img src="https://user-images.githubusercontent.com/92789013/194212666-1d7a922e-df6e-46d9-81bc-509e9f9326ee.jpg">
   <img src="https://user-images.githubusercontent.com/92789013/194212659-b36b6d9b-072f-4bae-971d-44ca28de7348.jpg">
+  <br>
+  <br>
+  <br>
+  
+  7.설치에 30~60분 가량이 소요된다. 이 때 너무 오랜시간 아무런 동작도 없다면 자동으로 전원이 절전모드로 전환되기 때문에 가끔씩 키보드나 마우스를 조작해줘야 한다.<br>
+  절전모드가 되면 OS 설치가 중간에 끊겨 손상되기 때문에 OS설치를 처음부터 다시 시작해주어야 한다!!!
+  <br>
+  <br>
+  <br>
+ </div>
+  
+## 4.3 Mojave 설치하기
+  <div align="center">
+  1.클로버 부트로더에서 Boot macOS from macOS (혹은 Boot macOS from [포맷할 때 지은 HDD 이름])으로 된 부팅 디스크를 선택한다.
+  <img src="https://user-images.githubusercontent.com/92789013/194211795-a192ad82-fa49-46b6-8343-7ac4bfd76392.png">
+  <br>
+  <br>
+  <br>
+  
+  2. 이후로는 VMware 가상머시에서 했던 것을 참고하여 OS 설치를 진행한다.
+  
+  <img src="https://user-images.githubusercontent.com/92789013/194212669-82e865fc-ebc6-4877-8596-66a395b667fa.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212671-fbfa3ab0-ba18-4335-8e2d-35c0367f0878.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212675-e8bac38f-00b5-4d0c-8807-1df72354a4b0.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212676-0992a14a-9ea2-4bc7-99bd-7b8cf46fc453.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212680-c7cb59a5-c706-4e76-b213-db39c48bc66d.jpg">
+  (정상적으로 부팅된다.)
+  
   
   
   
