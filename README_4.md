@@ -21,11 +21,7 @@ personal lattepanda used
     2. 라떼판다는 USB-C type을 통해 편리하게 전원 공급이 가능하다.
     <br>
     3. 부팅
-    <br>
-    <img src="https://user-images.githubusercontent.com/92789013/194212696-ee46ec76-b849-4f47-b7b2-71e19553a77b.jpg"><br>
-  
-    ( 전원을 연결하고 hdmi 포트를 통해 화면을 연결해도 아무런 반응이 없다. )<br>
-    ( SBC 의 측면에 위치한 power 버튼을 약 1초간 눌러주면 파란불이 점등되며 부팅이 시작된다 )
+ 
     <br>
     <br>
     <br>  
@@ -117,6 +113,7 @@ personal lattepanda used
   6. 이전 VMware 가상머신을 설치했을 때를 참고하여 macOS 설치를 진행한다.
   
   <img src="https://user-images.githubusercontent.com/92789013/194212657-60d51e7b-b4d8-4b5e-822f-67d4e5770ae2.jpg">
+  <img src="https://user-images.githubusercontent.com/92789013/194212666-1d7a922e-df6e-46d9-81bc-509e9f9326ee.jpg">
   <img src="https://user-images.githubusercontent.com/92789013/194212659-b36b6d9b-072f-4bae-971d-44ca28de7348.jpg">
   
   
